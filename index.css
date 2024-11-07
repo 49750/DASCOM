@@ -37,7 +37,7 @@ nav ul {
 }
 
 #intro-section {
-  background-image: url(../images/intro.jpg);
+  background-image: url(intro.jpg);
   background-position: center;
   min-height: 300px;
   margin-bottom: 30px;
